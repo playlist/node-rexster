@@ -1,0 +1,23 @@
+{
+  "name": "node-rexster",
+  "version": "1.0.0",
+  "description": "Rexster (RexPro) Node.js Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playlist/node-rexster.git"
+  },
+  "author": "Playlist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/playlist/node-rexster/issues"
+  },
+  "homepage": "https://github.com/playlist/node-rexster#readme",
+  "dependencies": {
+    "msgpack5": "^2.2.0",
+    "node-uuid": "^1.4.3"
+  }
+}
